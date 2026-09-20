@@ -25,5 +25,5 @@ Este perfil é, acima de tudo, um registro da minha evolução.
 Tudo que estiver aqui representa algo que estou aprendendo, experimentando ou construindo.
 
 ## 📫 Como me encontrar
-- **LinkedIn:** https://www.linkedin.com/in/kevin-oliveira-687989307/
-- **E-mail:** kevinsilvaoliveira1@outlook.com
+**LinkedIn:** https://www.linkedin.com/in/kevin-oliveira-687989307/
+**E-mail:** kevinsilvaoliveira1@outlook.com
