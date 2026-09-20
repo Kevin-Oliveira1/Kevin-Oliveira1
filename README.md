@@ -3,12 +3,15 @@
 💻 Estudante de programação e tecnologia, atualmente construindo minha base no desenvolvimento de software.
 
 ## 🚀 Sobre mim
-📚 Atualmente estudando **HTML**, **CSS** e **JavaScript**
-🟢 Explorando Node.js, Back-end, APIs, Bancos de dados e Git/GitHub
-🚧 Ainda estou construindo minha experiência através de estudos e projetos pessoais
+📚 Atualmente estudando **HTML**, **CSS** e **JavaScript**. 
+
+🟢 Explorando Node.js, Back-end, APIs, Bancos de dados e Git/GitHub.
+
+🚧 Ainda estou construindo minha experiência através de estudos e projetos pessoais.
 
 ## 🛠️ Minhas Habilidades
 **Tecnologias:** HTML, CSS, JavaScript.
+
 **Soft Skills:** Resiliência para debugar código, facilidade para me adaptar a imprevistos da rotina e muita vontade de aprender. 
 
 ## 🎯 Objetivos
